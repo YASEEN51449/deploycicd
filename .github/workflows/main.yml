@@ -1,11 +1,3 @@
-Reference:
-------------
-https://github.com/aws-actions/amazon-ecr-login
-https://docs.aws.amazon.com/lambda/latest/dg/python-image.html
-https://github.com/SatadruMukherjee/Data-Preprocessing-Models/blob/main/Github%20Action%20with%20AWS.txt
-
-Github Action Code:
------------------------
 name: ecr_docker_deployment
 on: [push]
 jobs:
